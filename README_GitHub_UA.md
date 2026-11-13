@@ -63,6 +63,16 @@
 ## 3D-корпус
 Корпус розроблено у **Fusion 360**. Він складається з основи та кришки, які друкуються на 3D-принтері.
 
+![Корпус у зібраному вигляді](1_Korpus_3D/korpus_assembled.png)
+
+| Розібраний корпус | Основа (вигляд всередину) |
+|---|---|
+| ![](1_Korpus_3D/korpus_exploded.png) | ![](1_Korpus_3D/korpus_base.png) |
+
+| Кришка | Вигляд ззаду |
+|---|---|
+| ![](1_Korpus_3D/korpus_lid.png) | ![](1_Korpus_3D/korpus_back.png) |
+
 - основа: [ThermoBox_Base.stl](1_Korpus_3D/ThermoBox_Base.stl)
 - кришка: [ThermoBox_Lid.stl](1_Korpus_3D/ThermoBox_Lid.stl)
 - проєкт Fusion 360: [ThermoBox_case.f3d](1_Korpus_3D/ThermoBox_case.f3d)
