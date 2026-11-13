@@ -78,7 +78,6 @@
 - проєкт Fusion 360: [ThermoBox_case.f3d](1_Korpus_3D/ThermoBox_case.f3d)
 - збірка (STEP): [ThermoBox_case_assembly.step](1_Korpus_3D/ThermoBox_case_assembly.step)
 
-> Якщо натиснути на файл `.stl`, GitHub відкриє інтерактивний 3D-перегляд: модель можна обертати мишею.
 
 ## Програмний код (Arduino IDE)
 Код: [ThermoBox.ino](4_Arduino_kod/ThermoBox/ThermoBox.ino)
