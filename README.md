@@ -76,7 +76,6 @@
 - основа: [ThermoBox_Base.stl](1_Korpus_3D/ThermoBox_Base.stl)
 - кришка: [ThermoBox_Lid.stl](1_Korpus_3D/ThermoBox_Lid.stl)
 - проєкт Fusion 360: [ThermoBox_case.f3d](1_Korpus_3D/ThermoBox_case.f3d)
-- збірка (STEP): [ThermoBox_case_assembly.step](1_Korpus_3D/ThermoBox_case_assembly.step)
 
 
 ## Програмний код (Arduino IDE)
